@@ -1,5 +1,4 @@
 # Sentiment Classification of Tweets
-### Natural Language Processing — Politecnico di Torino
 
 ## Overview
 This project builds a **binary sentiment classification pipeline** to predict whether a tweet expresses positive or negative sentiment. The work systematically compares **six different text preprocessing strategies** combined with **two classification pipelines**, evaluating each configuration by F1 score.
@@ -42,7 +41,7 @@ jupyter notebook "Solution 6.ipynb"
 Python, NLTK, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
 
 ## Authors
-Silva Bashllari & collaborators — Politecnico di Torino
+Silva Bashllari & collaborators — Politecnico di Torino Course 
 
 ## License
 [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
